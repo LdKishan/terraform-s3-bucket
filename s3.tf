@@ -2,9 +2,9 @@ provider "aws" {
 
 
 
-access_key = "AKIAZRZSMIILHKMXYFA3"
-secret_key = "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"
-region = "us-east-1"
+access_key = ""
+secret_key = ""
+region = ""
 
 
 
